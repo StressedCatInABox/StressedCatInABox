@@ -1,6 +1,6 @@
 - Hi, I’m @StressedCatInABox
 - I’m interested in modding source engine games, or something like that.
-- I’m currently learning how to code C++, but I already know some Lua.
+- I’m currently learning how to code C#, but I already know some Lua.
 - You can reach me on Discord here: STRESSED CAT IN A BOX#5324
 
 <!---
